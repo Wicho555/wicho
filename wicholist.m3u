@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 ,CANAL 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
+#EXTINF:-1 ,CANAL 11
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8

@@ -1,9 +1,193 @@
 #EXTM3U
-#EXTINF:-1 ,CANAL 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
-#EXTINF:-1 ,CANAL 11
-https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
-#EXTINF:-1 ,ESTRELLA
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
-#EXTINF:-1 , CANAL 5
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1785&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 ,AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 ,AZTECA UNO HD
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 ,AZTECA UNO HD OP2
+http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/47354
+#EXTINF:-1 ,AZTECA 7 
+http://158.69.62.208:8081/live/Azteca7/chunks.m3u8
+#EXTINF:-1 ,AZTECA 7 HD
+http://tvready.org:25461/23763235/36984944/11080
+#EXTINF:-1 ,AZTECA 7 HD OP2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=322&format=HLSAD&f=.m3u8
+#EXTINF:-1 ,ESTRELLA 
+http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/163
+#EXTINF:-1 ,ESTRELLA HD
+http://tvready.org:25461/23763235/36984944/11087
+#EXTINF:-1 ,CANAL 5
+http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/199
+#EXTINF:-1 ,CANAL 5 HD
+http://tvready.org:25461/23763235/36984944/11086
+#EXTINF:-1 ,CANAL 5 HD OP2
+https://blackghost.live/play/wistream-bglive-833.php?cat=latinos&ch=canal5televisa&k=blaacckghost&f=.m3u8
+#EXTINF:-1 ,BANDAMAX
+http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/192
+#EXTINF:-1 ,BANDAMAX OP2
+http://tvready.org:25461/23763235/36984944/11082
+#EXTINF:-1 ,DISTRITO COMEDIA
+http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/198
+#EXTINF:-1 ,DISTRITO COMEDIA OP2
+http://tvready.org:25461/23763235/36984944/11110
+#EXTINF:-1 ,COMEDY CENTRAL
+http://158.69.62.208:8081/live/COMEDY_CENTRAL_HD/chunks.m3u8
+#EXTINF:-1 ,COMEDY CENTRAL OP2
+http://201.220.141.118:8000/play/a066/index.m3u8
+#EXTINF:-1 ,CARTOON NETWORK
+http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/78
+#EXTINF:-1 ,CARTOON NETWORK OP2
+http://tvready.org:25461/23763235/36984944/11221
+#EXTINF:-1 ,CARTOON NETWORK OP3
+http://xtreampanel.vip:2087/Fdoclaro/nDL7XtHc7I/81737
+#EXTINF:-1 ,ANIMAL PLANET
+http://tvready.org:25461/23763235/36984944/11198
+#EXTINF:-1 ,FOX
+https://chinofree.000webhostapp.com/live/fran.php/118
+#EXTINF:-1 ,FOX OP2
+http://158.69.62.208:8081/live/FOX_HD/chunks.m3u8
+#EXTINF:-1 ,TNT
+
+#EXTINF:-1 ,TNT OP2
+
+#EXTINF:-1 ,TELEMUNDO INTER HD
+http://51.81.83.56:8081/live/TelemundoMiami/chunks.m3u8 
+#EXTINF:-1 ,UNICABLE
+http://daletvplay.xyz:8080/live/qwerty/qwerty/7767.m3u8 
+#EXTINF:-1 ,AZ CORAZON
+https://chinofree.000webhostapp.com/live/fran.php/158
+#EXTINF:-1 ,AZ MUNDO
+https://chinofree.000webhostapp.com/live/fran.php/157
+#EXTINF:-1 ,IMAGEN TV
+https://chinofree.000webhostapp.com/live/fran.php/184
+#EXTINF:-1 ,MULTIMEDIOS CDMX
+https://chinofree.000webhostapp.com/live/fran.php/196
+#EXTINF:-1 ,DISCOVERY KIDS
+http://xtreampanel.vip:2087/Fdoclaro/nDL7XtHc7I/81742 
+#EXTINF:-1 ,NICK 
+
+#EXTINF:-1 ,DISNEY XD
+https://chinofree.000webhostapp.com/live/fran.php/85
+#EXTINF:-1 ,DISNEY XD OP2
+https://blackghost.live/play/5-833.php?c=DisneyXD&t=.m3u8
+#EXTINF:-1 ,DISNEY JR
+http://kstv.xyz:8080/Admluda192/0046096196/46917 
+#EXTINF:-1 ,DISNEY CHANNEL
+ 
+#EXTINF:-1 ,DISNEY CHANNEL OP2
+http://xtreampanel.vip:2087/Fdoclaro/nDL7XtHc7I/81748
+#EXTINF:-1 ,BOOMERANG
+http://158.69.62.208:8081/live/BOOMERANG/chunks.m3u8 
+#EXTINF:-1 ,BABY TV
+https://chinofree.000webhostapp.com/live/fran.php/77
+#EXTINF:-1 ,NICK JR
+http://194.163.171.32:25461/M3UFRANCO/HeWxYRV7YE/82
+#EXTINF:-1 ,NICKTOONS
+
+#EXTINF:-1 ,NICKELODEON
+http://xtreampanel.vip:2087/Fdoclaro/nDL7XtHc7I/81759
+#EXTINF:-1 ,BABY FIRST
+https://chinofree.000webhostapp.com/live/fran.php/340
+#EXTINF:-1 ,NICK 2
+http://flowfhd.xyz:25461/Annabelle/12345/103618 
+#EXTINF:-1 ,NAT GEO KIDS
+https://chinofree.000webhostapp.com/live/fran.php/87
+#EXTINF:-1 ,NAT GEO KIDS
+http://xtreampanel.vip:2087/Fdoclaro/nDL7XtHc7I/81755
+#EXTINF:-1 ,BIT ME
+
+#EXTINF:-1 ,TBS SD
+
+#EXTINF:-1 ,DE PELICULA 
+https://chinofree.000webhostapp.com/live/fran.php/150
+#EXTINF:-1 ,DE PELICULA +
+
+#EXTINF:-1 ,GOLDEN 
+
+#EXTINF:-1 ,GOLDEN EDGE
+
+#EXTINF:-1 ,GOLDEN +
+https://chinofree.000webhostapp.com/live/fran.php/128
+#EXTINF:-1 ,TCM
+
+#EXTINF:-1 ,SPACE
+https://chinofree.000webhostapp.com/live/fran.php/143
+#EXTINF:-1 ,SPACE OP2
+http://195.181.163.39/LAT_Space_HD/index.m3u8?token=e57ebd4ea17d692fd080403306f72d0a
+#EXTINF:-1 ,AMC
+http://158.69.62.208:8081/live/AMC_HD/chunks.m3u8 
+#EXTINF:-1 ,STUDIO UNIVERSAL
+http://158.69.62.208:8081/live/UniversalChannel/chunks.m3u8 
+#EXTINF:-1 ,FXM https://chinofree.000webhostapp.com/live/fran.php/117
+#EXTINF:-1 ,FXM OP2
+https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8
+#EXTINF:-1 ,FOX SERIES
+http://158.69.62.208:8081/live/FOXSERIES/chunks.m3u8 
+#EXTINF:-1 ,FOX CINEMA
+http://158.69.62.208:8081/live/FOXCINEMA/chunks.m3u8 
+#EXTINF:-1 ,CINE CANAL
+https://chinofree.000webhostapp.com/live/fran.php/130
+#EXTINF:-1 ,CINE CANAL OP2
+http://195.181.163.39/LAT_Cinecanal_HD/index.m3u8?token=e57ebd4ea17d692fd080403306f72d0ahttps://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
+#EXTINF:-1 ,CINEMAX
+https://chinofree.000webhostapp.com/live/fran.php/132
+#EXTINF:-1 ,CINEMAX OP2
+http://195.181.163.39/ARG_CINEMAX/index.m3u8?token=e57ebd4ea17d692fd080403306f72d0a
+#EXTINF:-1 ,FOX ACTIONS
+http://158.69.62.208:8081/live/FOXACTION/chunks.m3u8 
+#EXTINF:-1 ,PARAMOUNT CHANNEL
+https://chinofree.000webhostapp.com/live/fran.php/141
+#EXTINF:-1 ,PARAMOUNT CHANNEL OP2
+https://blackghost.live/play/5-833.php?c=Paramount&t=.m3u8
+#EXTINF:-1 ,HBO
+https://blackghost.live/play/5-833.php?c=HBO&t=.m3u8
+#EXTINF:-1 ,FOX CLASIC
+http://158.69.62.208:8081/live/FOXCLASSICS/chunks.m3u8 
+#EXTINF:-1 ,AZ CINEMA
+https://chinofree.000webhostapp.com/live/fran.php/151
+#EXTINF:-1 ,SONY
+https://chinofree.000webhostapp.com/live/fran.php/142
+#EXTINF:-1 ,SONY OP2
+http://158.69.62.208:8081/live/SONY_HD/chunks.m3u8
+#EXTINF:-1 ,WARNER
+https://chinofree.000webhostapp.com/live/fran.php/146
+#EXTINF:-1 ,WARNER OP2
+http://158.69.62.208:8081/live/WARNER_HD/chunks.m3u8
+#EXTINF:-1 ,E!
+http://flowfhd.xyz:25461/Annabelle/12345/185216 
+#EXTINF:-1 ,UNIVERSAL
+
+#EXTINF:-1 ,UNIVERSAL OP2
+http://158.69.62.208:8081/live/UniversalChannel/chunks.m3u8
+#EXTINF:-1 ,SYFY
+https://qlobbidev.s.llnwi.net/bpk-tv/SYFY/hls/index.m3u8 
+#EXTINF:-1 ,FX https://chinofree.000webhostapp.com/live/fran.php/116
+#EXTINF:-1 ,FX OP2
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
+#EXTINF:-1 ,A&E
+https://chinofree.000webhostapp.com/live/fran.php/113
+#EXTINF:-1 ,AXN
+http://158.69.62.208:8081/live/AXN_HD/chunks.m3u8 
+#EXTINF:-1 ,SUNDANCE TV
+http://flowfhd.xyz:25461/Annabelle/12345/103331 
+#EXTINF:-1 ,TNT SERIES
+http://158.69.62.208:8081/live/TNT_SERIES_HD/chunks.m3u8 
+#EXTINF:-1 ,GLITZ
+https://chinofree.000webhostapp.com/live/fran.php/181
+#EXTINF:-1 ,GLITZ OP2
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/790 
+#EXTINF:-1 ,GOURMET
+https://chinofree.000webhostapp.com/live/fran.php/177
+#EXTINF:-1 ,FOX LIFE
+http://158.69.62.208:8081/live/FOX_LIFE_HD/chunks.m3u8 
+#EXTINF:-1 ,LIFETIME
+https://chinofree.000webhostapp.com/live/fran.php/176
+#EXTINF:-1 ,ANTENA 3
+https://chinofree.000webhostapp.com/live/fran.php/167
+#EXTINF:-1 ,HOLA TV HD
+https://chinofree.000webhostapp.com/live/fran.php/182
+#EXTINF:-1 ,A3SERIES
+https://chinofree.000webhostapp.com/live/fran.php/166
+
+#EXTINF:-1 ,ESPN
+https://blackghost.live/play/5-833.php?c=Espn1&f=.BKR/chunks.m3u8
+#EXTINF:-1 ,ESPN OP2 
